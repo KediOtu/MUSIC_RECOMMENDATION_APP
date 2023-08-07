@@ -7,8 +7,8 @@ from tkinter import messagebox
 import random
 
 #spotify api
-client_id = 'dc78307db04e45d4aeb81e7d46a2382c'
-client_secret = 'c72bac801fa542998767b9bf02194e5f'
+client_id = '--------------------' //I explained what should be written here at readme file.
+client_secret = '---------------------'//I explained what should be written here at readme file.
 
 #spotify oturum açma
 client_credentials_manager = SpotifyClientCredentials(client_id=client_id, client_secret=client_secret)
